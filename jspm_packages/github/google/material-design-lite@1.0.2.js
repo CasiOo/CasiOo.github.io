@@ -1,1 +1,0 @@
-module.exports = require("github:google/material-design-lite@1.0.2/material");
