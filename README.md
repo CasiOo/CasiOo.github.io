@@ -6,7 +6,9 @@ A jstogether project. Follow us on slack and reddit [https://www.reddit.com/r/js
 
 Type the following in your console: 
 
-```indexedDB.deleteDatabase("ElectionDatabase")```
+    ```shell
+    indexedDB.deleteDatabase("ElectionDatabase")
+    ```
 
 Refresh page
 
