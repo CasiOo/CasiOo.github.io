@@ -12,11 +12,7 @@ System.config({
     "github:*": "jspm_packages/github/*",
     "npm:*": "jspm_packages/npm/*"
   },
-  // meta: {
-    // "core/data-access/*.json": {
-     // loader: "JSON"
-    // }
-  // },
+
   map: {
     "aurelia-animator-css": "github:aurelia/animator-css@0.15.0",
     "aurelia-binding": "github:aurelia/binding@0.8.6",
@@ -45,12 +41,12 @@ System.config({
     "clean-css": "npm:clean-css@3.3.9",
     "core-js": "npm:core-js@0.9.18",
     "css": "github:systemjs/plugin-css@0.1.13",
-    "json": "github:systemjs/plugin-json@0.1.0",
     "dexie": "npm:dexie@1.1.0",
     "dogfalo/materialize": "github:dogfalo/materialize@0.97.0",
     "events": "github:jspm/nodelibs-events@0.1.1",
     "fetch": "github:github/fetch@0.9.0",
     "font-awesome": "npm:font-awesome@4.4.0",
+    "json": "github:systemjs/plugin-json@0.1.0",
     "normalize.css": "github:necolas/normalize.css@3.0.3",
     "github:aurelia/animator-css@0.15.0": {
       "aurelia-metadata": "github:aurelia/metadata@0.7.3",

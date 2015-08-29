@@ -1,0 +1,1 @@
+module.exports = require("npm:dexie@1.1.0/dist/latest/Dexie");
