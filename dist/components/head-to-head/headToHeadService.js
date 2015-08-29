@@ -1,4 +1,4 @@
-System.register(['aurelia-framework', 'components/head-to-head/HeadToHeadRepository'], function (_export) {
+System.register(['aurelia-framework', 'components/head-to-head/headToHeadRepository'], function (_export) {
     'use strict';
 
     var inject, HeadToHeadRepository, HeadToHeadService;

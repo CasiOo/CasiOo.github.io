@@ -1,4 +1,4 @@
-System.register(['aurelia-framework', 'components/party-list-standing/PartyListStandingRepository'], function (_export) {
+System.register(['aurelia-framework', 'components/party-list-standing/partyListStandingRepository'], function (_export) {
     'use strict';
 
     var inject, PartyListStandingRepository, PartyListStandingService;
