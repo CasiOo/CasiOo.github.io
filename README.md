@@ -4,8 +4,8 @@ A jstogether project. Follow us on slack and reddit [https://www.reddit.com/r/js
 
 ## Demo
 
-> Flex and indexedDB aren't implemented properly in Safari yet.
-> Please view using another browser, thanks :)
+> Flex and indexedDB aren't implemented properly in Safari yet.\n
+> Please view using <br>another browser, thanks :)
 
 http://casioo.github.io
 
